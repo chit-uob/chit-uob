@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chit-uob
 - 👀 I’m interested in applying technologies that I learned to help myself and others.
-- 🌱 I’m currently learning about how to use APIs.
+- 🌱 I’m currently writing a tech blog, you can find me on [Hashnode](https://chit.hashnode.dev/).
 - 💞️ I’m looking to collaborate on nothing for now.
 - 📫 How to reach me, email: chitlee.uob@gmail.com
 
